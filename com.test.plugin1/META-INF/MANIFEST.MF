@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plugin1
+Bundle-SymbolicName: com.test.plugin1;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: TEST
+Automatic-Module-Name: com.test.plugin1
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-BundleShape: dir
